@@ -14,7 +14,7 @@ This repository contains the code and documentation for the group project on "Sm
   - Triple Exponential (Holt Winters’ Seasonal Method)
   - LOWESS (Locally Weighted Scatterplot Smoothing)
 - Autocorrelation and Partial Autocorrelation
-- ETS Model in R]
+- ETS Model in R
 - Animations
 
 ## Datasets 📊
