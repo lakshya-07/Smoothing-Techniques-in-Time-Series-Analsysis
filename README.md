@@ -6,16 +6,16 @@ This repository contains the code and documentation for the group project on "Sm
 
 ## Highlights: 📋
 
-- [Datasets](#datasets)
-- [Smoothing Techniques](#smoothing-techniques)
-  - [Moving Averages](#moving-averages)
-  - [Double Exponential (Holt’s Linear Trend Method)](#double-exponential-holts-linear-trend-method)
-  - [Damped Trend](#damped-trend)
-  - [Triple Exponential (Holt Winters’ Seasonal Method)](#triple-exponential-holt-winters-seasonal-method)
-  - [LOWESS (Locally Weighted Scatterplot Smoothing)](#lowess-locally-weighted-scatterplot-smoothing)
-- [Autocorrelation and Partial Autocorrelation](#autocorrelation-and-partial-autocorrelation)
-- [ETS Model in R](#ets-model)
-- [Animations](#animations)
+- Datasets
+- Smoothing Techniques
+  - Moving Averages
+  - Double Exponential (Holt’s Linear Trend Method)
+  - Damped Trend
+  - Triple Exponential (Holt Winters’ Seasonal Method)
+  - LOWESS (Locally Weighted Scatterplot Smoothing)
+- Autocorrelation and Partial Autocorrelation
+- ETS Model in R]
+- Animations
 
 ## Datasets 📊
 
