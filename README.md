@@ -19,6 +19,6 @@ This repository contains the code and documentation for the group project on "Sm
 
 ## Datasets 📊
 
-1. **Sunspot Dataset:** 
-2. **Stock Market:** 
-3. **Air Passenger Dataset:** 
+1. **Sunspot Dataset** 
+2. **Stock Market** 
+3. **Air Passenger Dataset** 
